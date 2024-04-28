@@ -1,0 +1,3 @@
+There is a wealth of literature on issues related to vehicle routing. The majority of existing literature addresses static problems, meaning that all data are known ahead of time (i.e., prior to the initiation of optimization). Though, not all information is known ahead of time, and data is subject to change depending on the circumstances. Orders may be received throughout the course of vehicle routing, and they must be dynamically included into the routes. 
+
+In this project, I provide a complete Python implementation that uses Ant Colony Systems to efficiently optimize the Dynamic Travelling Salesman Problem (DTSP). Without having to start the optimization process over, the goal is to swiftly create a new route for the additional nodes using the existing one. 
